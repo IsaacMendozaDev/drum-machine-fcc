@@ -1,0 +1,15 @@
+.wrapper {
+  width: 100%;
+  height: 100dvh;
+}
+
+.control-container {
+  max-width: 380px;
+}
+
+#volume {
+  max-width: 150px;
+}
+#display {
+  min-height: 40px;
+}
